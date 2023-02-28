@@ -12,7 +12,6 @@ public class Lab {
      */
     public int addNumbers(int a, int b){
        int sum = a + b;
-       
         return sum;
     }
 }
